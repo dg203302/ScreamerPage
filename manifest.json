@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "FunnyApp",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "funnyapp",
+  "start_url": "https://dg203302.github.io/ScreamerPage/",
+  "theme_color": "#ffffff",
+  "id": "1770",
+  "description": "Funny App",
+  "lang": "en"
+}
