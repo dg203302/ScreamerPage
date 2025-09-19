@@ -1,8 +1,7 @@
 {
   "background_color": "#ffffff",
   "dir": "ltr",
-  "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone"],
+  "display": "fullscreen",
   "name": "FunnyApp",
   "orientation": "portrait",
   "scope": "/",
