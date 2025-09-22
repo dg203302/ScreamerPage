@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.netlify.funnysitee.twa",
-        "sha256_cert_fingerprints": ["C2:BD:5A:ED:07:86:6C:B0:96:91:4F:28:BA:4B:ED:3F:80:D5:08:C2:24:02:52:BF:96:D0:C0:6F:EB:A3:4F:D3"]
+        "sha256_cert_fingerprints": ["CA:FB:A1:8A:9E:5A:1B:77:0C:20:06:6D:4D:FB:29:A0:02:F6:D2:50:16:D4:A9:E5:46:62:39:76:CF:92:D0:40"]
       }
     }]
