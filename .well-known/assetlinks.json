@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.funnysitee.twa",
+        "sha256_cert_fingerprints": ["C2:BD:5A:ED:07:86:6C:B0:96:91:4F:28:BA:4B:ED:3F:80:D5:08:C2:24:02:52:BF:96:D0:C0:6F:EB:A3:4F:D3"]
+      }
+    }]
